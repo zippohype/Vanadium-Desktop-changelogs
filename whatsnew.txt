@@ -1,4 +1,4 @@
-Welcome to the updater!
+Welcome to Vanadium Desktop's updater!
 
 Here this is where you can check for updates fully, without having to use the terminal or the software app.
 Please note this is in beta, stuff can be buggy so if you find one, please report it in the discord server.
